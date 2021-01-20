@@ -708,4 +708,8 @@ button:hover {
     font-size: 75%;
     line-height: 2;
   }
+
+  .contact textarea {
+    width: 92%;
+  }
 }
