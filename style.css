@@ -498,8 +498,13 @@ article h5 {
   line-height: 2;
 }
 
+.contact table {
+  margin: 0 10px 0 45px;
+  width: calc( 100% - 55px);
+}
+
 textarea {
-  width: 350px;
+  width: 80%;
   height: 130px;
   margin-top: 10px;
 }
@@ -710,6 +715,6 @@ button:hover {
   }
 
   .contact textarea {
-    width: 92%;
+    width: 80%;
   }
 }
