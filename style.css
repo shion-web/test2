@@ -509,6 +509,10 @@ textarea {
   margin-top: 10px;
 }
 
+.contact td input {
+  width: 80%;
+}
+
 button {
   line-height: 2;
   font-size: 15px;
