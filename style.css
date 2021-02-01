@@ -673,11 +673,13 @@ button:hover {
 
   header h1 {
     font-size: 150%;
+    padding-left: 10px;
   }
 
   main h1 {
     font-size: 100%;
     line-height: 2;
+    padding-left: 10%;
   }
 
   main h2 {
@@ -698,7 +700,7 @@ button:hover {
   .new p::after {
     content: "NEW";
     display: inline-block;
-    width: 10%;
+    width: 20%;
     line-height: 150%;
     color: white;
     background: red;
